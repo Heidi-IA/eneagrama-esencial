@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+
+{% block title %}Inicio · Eneagrama Esencial{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center">
+  <div class="col-lg-8">
+    <div class="card shadow-lg border-0 p-4 text-center">
+
+      <h1 class="display-5 fw-bold mb-3">
+        Eneagrama Esencial
+      </h1>
+      <h4 class="text-muted mb-4">Diagnóstico inicial profesional</h4>
+
+      <p class="lead text-muted mb-4">
+        El eneagrama es un modelo de personalidad basado en 9 patrones principales de pensamiento,
+        emoción y comportamiento. Descubrí tu eneatipo dominante y tu orientación vocacional
+        a través de este diagnóstico inicial.
+        Respondé con sinceridad tildando sólo las afirmaciones con las que te identificás plenamente.
+      </p>
+
+      <p class="text-muted mb-4" style="font-size: 0.88rem;">
+        Al finalizar obtendrás tu informe con: eneatipo principal, descripción detallada,
+        orientación vocacional y clave evolutiva, más el gráfico radial de tu perfil.
+        Podés descargar el PDF con tu diagnóstico personalizado.
+      </p>
+
+      <form method="POST" action="/crear_preferencia">
+
+        <div class="mb-3 text-start">
+          <label class="form-label">Nombre completo</label>
+          <input type="text" class="form-control" name="nombre" required>
+        </div>
+
+        <div class="mb-3 text-start">
+          <label class="form-label">Correo electrónico</label>
+          <input type="email" class="form-control" name="email" required>
+        </div>
+
+        <div class="d-grid gap-2 col-6 mx-auto mt-4">
+          <button type="submit" class="btn btn-primary btn-lg">Comenzar Diagnóstico</button>
+        </div>
+
+      </form>
+
+    </div>
+
+    <div class="text-center mt-4 small text-muted">
+      Duración estimada: 10–15 minutos
+    </div>
+  </div>
+</div>
+{% endblock %}

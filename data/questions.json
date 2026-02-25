@@ -1,0 +1,548 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Estoy siempre ocupado en algo, lo que sea, y suelo ser muy distraído.",
+      "type": 7
+    },
+    {
+      "id": 2,
+      "text": "Estoy ávido de nuevas experiencias, las que sean, y no soporto el aburrimiento.",
+      "type": 7
+    },
+    {
+      "id": 3,
+      "text": "Soy muy independiente y me enojo que se metan en mi territorio.",
+      "type": 8
+    },
+    {
+      "id": 4,
+      "text": "Soy optimista por naturaleza, bastante crédulo y un poco infantil.",
+      "type": 7
+    },
+    {
+      "id": 5,
+      "text": "Ante todo me preocupa el éxito y la imagen; después me ocuparé de la vida sentimental.",
+      "type": 3
+    },
+    {
+      "id": 6,
+      "text": "Para bien o para mal soy bueno para encubrir mis inseguridades; nadie sabe lo que siento.",
+      "type": 3
+    },
+    {
+      "id": 7,
+      "text": "Cuando me siento exigido o invadido huyo simplemente a mi guarida.",
+      "type": 5
+    },
+    {
+      "id": 8,
+      "text": "Soy una persona emprendedora, activa, eficaz y competente; en general alcanzo mis metas.",
+      "type": 3
+    },
+    {
+      "id": 9,
+      "text": "Me planteo objetivos concretos y me esfuerzo mucho en pos de ellos.",
+      "type": 3
+    },
+    {
+      "id": 10,
+      "text": "Los falsos y manipuladores merecen su castigo: “ojo por ojo, diente por diente”.",
+      "type": 8
+    },
+    {
+      "id": 11,
+      "text": "Soy fuerte y decido mi propio destino.",
+      "type": 8
+    },
+    {
+      "id": 12,
+      "text": "Interiormente siento que tengo más amor y generosidad que la mayoría de la gente.",
+      "type": 2
+    },
+    {
+      "id": 13,
+      "text": "Me aterra pensar en el futuro incierto, las enfermedades y la muerte.",
+      "type": 6
+    },
+    {
+      "id": 14,
+      "text": "A menudo soy impulsivo con lo que digo para poner a prueba la lealtad de los otros.",
+      "type": 6
+    },
+    {
+      "id": 15,
+      "text": "Oscilo entre los extremos, sobre todo en cuanto a las emociones.",
+      "type": 4
+    },
+    {
+      "id": 16,
+      "text": "No mido mis palabras, digo lo que tengo que decir caiga quien caiga.",
+      "type": 8
+    },
+    {
+      "id": 17,
+      "text": "Siempre que puedo evito las peleas y las discusiones: todos tienen algo de razón.",
+      "type": 9
+    },
+    {
+      "id": 18,
+      "text": "Puedo estar tranquilo, pero si se meten conmigo sé muy bien dónde pegar.",
+      "type": 8
+    },
+    {
+      "id": 19,
+      "text": "Mi mente es mi parte más activa; pienso, razono, analizo gran parte de mi tiempo.",
+      "type": 5
+    },
+    {
+      "id": 20,
+      "text": "Tiendo a consumir y a gastar más dinero del que debería.",
+      "type": 7
+    },
+    {
+      "id": 21,
+      "text": "Soy exigente y crítico conmigo y con los otros; todos debemos hacer las cosas lo mejor posible.",
+      "type": 1
+    },
+    {
+      "id": 22,
+      "text": "Parezco distraído; la verdad es que comprendo las cosas pero no quiero reaccionar a ellas.",
+      "type": 9
+    },
+    {
+      "id": 23,
+      "text": "Existe un modo correcto de hacer las cosas; procuro respetarlo y exijo que se lo respete.",
+      "type": 1
+    },
+    {
+      "id": 24,
+      "text": "Tengo muy en claro el sentido del deber y la responsabilidad; soy alguien leal.",
+      "type": 6
+    },
+    {
+      "id": 25,
+      "text": "Aunque soy emotivo, no suelo demostrar mis sentimientos fuera de mi círculo íntimo.",
+      "type": 6
+    },
+    {
+      "id": 26,
+      "text": "Soy capaz, valioso, y me adapto bien; he aprendido a mostrarme como soy.",
+      "type": 3
+    },
+    {
+      "id": 27,
+      "text": "Suelo sentirme solo, incluso cuando estoy con personas que quiero.",
+      "type": 4
+    },
+    {
+      "id": 28,
+      "text": "El miedo a correr riesgos hace que muchas veces no ponga en juego mi creatividad.",
+      "type": 6
+    },
+    {
+      "id": 29,
+      "text": "A menudo me invade la frustración por las imperfecciones del mundo: ¡tanta mediocridad!",
+      "type": 1
+    },
+    {
+      "id": 30,
+      "text": "Me duelen las despedidas y separaciones, pero me repongo pronto y ¡a otra cosa!",
+      "type": 7
+    },
+    {
+      "id": 31,
+      "text": "Jamás me detengo, el ocio no es para mí: ¿para qué perder tiempo?",
+      "type": 3
+    },
+    {
+      "id": 32,
+      "text": "Ser y parecer, ambos son importantes, pero primero procuro dar una buena impresión.",
+      "type": 3
+    },
+    {
+      "id": 33,
+      "text": "Si hay que resolver un problema, prefiero encontrar la respuesta estando solo.",
+      "type": 5
+    },
+    {
+      "id": 34,
+      "text": "Pienso que no puedo confiar en nadie, todos esconden algo que me puede perjudicar.",
+      "type": 6
+    },
+    {
+      "id": 35,
+      "text": "Me obsesiono por obtener el amor de quienes me interesan; si hace falta, coacciono.",
+      "type": 2
+    },
+    {
+      "id": 36,
+      "text": "La gente busca mi alegre compañía porque pueden distenderse a mi lado.",
+      "type": 7
+    },
+    {
+      "id": 37,
+      "text": "Generalmente priorizo las necesidades de los otros, sacrificando las mías.",
+      "type": 2
+    },
+    {
+      "id": 38,
+      "text": "Prefiero formar parte de “algo más grande” que mostrar mi originalidad.",
+      "type": 6
+    },
+    {
+      "id": 39,
+      "text": "Mi mente es tan parlanchina como yo.",
+      "type": 7
+    },
+    {
+      "id": 40,
+      "text": "En los momentos de decisión, mis sentimientos están por encima de la razón.",
+      "type": 2
+    },
+    {
+      "id": 41,
+      "text": "Me considero alguien objetivo, moderado y razonable.",
+      "type": 1
+    },
+    {
+      "id": 42,
+      "text": "Soy rápido, impaciente, imparable: brillo y eficiencia son la clave de mi éxito.",
+      "type": 3
+    },
+    {
+      "id": 43,
+      "text": "No me gusta malgastar mi tiempo, mis energías ni mi dinero; prefiero ahorrarlos.",
+      "type": 5
+    },
+    {
+      "id": 44,
+      "text": "Aunque a veces me gusta conversar, no dejo entrar a muchas personas en mi mundo.",
+      "type": 5
+    },
+    {
+      "id": 45,
+      "text": "Controlar mis impulsos es algo que me obsesiona.",
+      "type": 1
+    },
+    {
+      "id": 46,
+      "text": "Cuido siempre mi imagen; y si algo negativo me pasa procuro que los demás no lo noten.",
+      "type": 3
+    },
+    {
+      "id": 47,
+      "text": "Me cuesta demostrar abiertamente lo que sé y lo que valgo.",
+      "type": 6
+    },
+    {
+      "id": 48,
+      "text": "Tiendo a dramatizar todo, incluso lo que a otros les parece insignificante.",
+      "type": 4
+    },
+    {
+      "id": 49,
+      "text": "Confío y desconfío de la autoridad y las normas; pero son muy importantes para mí.",
+      "type": 6
+    },
+    {
+      "id": 50,
+      "text": "Puedo ser atolondrado, impaciente e inconstante, pero siempre alegre.",
+      "type": 7
+    },
+    {
+      "id": 51,
+      "text": "La transparencia puede esperar; no puedo dejar pasar la oportunidad.",
+      "type": 3
+    },
+    {
+      "id": 52,
+      "text": "Soy precavido y desconfiado; temo cometer errores y ser objeto de burlas y críticas.",
+      "type": 6
+    },
+    {
+      "id": 53,
+      "text": "Tengo fama de perfeccionista, y en realidad lo soy.",
+      "type": 1
+    },
+    {
+      "id": 54,
+      "text": "Ante todo me gusta tener mi espacio privado y poner mi sello personal en lo que hago.",
+      "type": 4
+    },
+    {
+      "id": 55,
+      "text": "Puedo enfrentarme con quien sea sin pestañear; no me dejo someter fácilmente.",
+      "type": 8
+    },
+    {
+      "id": 56,
+      "text": "Me llena de satisfacción saber que mis sacrificios son fuente de felicidad para mis seres queridos.",
+      "type": 2
+    },
+    {
+      "id": 57,
+      "text": "Aunque soy gentil y amable, hay en mí un carácter duro que no me atrevo a expresar.",
+      "type": 2
+    },
+    {
+      "id": 58,
+      "text": "Como todos, sigo la ley del menor esfuerzo.",
+      "type": 9
+    },
+    {
+      "id": 59,
+      "text": "Me gusta la comodidad y estar tranquilo por encima de todo.",
+      "type": 9
+    },
+    {
+      "id": 60,
+      "text": "Gran parte de mi tiempo y energía la invierto en anticiparme a los peligros y problemas.",
+      "type": 6
+    },
+    {
+      "id": 61,
+      "text": "Hay un juez en mi cabeza, a veces sabio, siempre práctico; pero frecuentemente severo y duro.",
+      "type": 1
+    },
+    {
+      "id": 62,
+      "text": "Cuanto me siento muy ansioso, me vuelvo muy distraído y apático.",
+      "type": 9
+    },
+    {
+      "id": 63,
+      "text": "A menudo me siento pequeño, frágil e impotente, y prefiero no pedir ayuda.",
+      "type": 5
+    },
+    {
+      "id": 64,
+      "text": "No siempre soy constante con aquello que al comienzo me entusiasma.",
+      "type": 7
+    },
+    {
+      "id": 65,
+      "text": "No me considero terco, pero lo soy cuando he tomado una decisión.",
+      "type": 9
+    },
+    {
+      "id": 66,
+      "text": "Suelo tener una coraza emocional, procuro no mostrar abiertamente mis vulnerabilidades.",
+      "type": 8
+    },
+    {
+      "id": 67,
+      "text": "Sé mucho sobre muchas cosas y en mi campo soy un experto.",
+      "type": 5
+    },
+    {
+      "id": 68,
+      "text": "El mundo se divide en fuertes y débiles, y mi meta es ante todo sobrevivir.",
+      "type": 8
+    },
+    {
+      "id": 69,
+      "text": "Me cuesta expresar de modo directo lo que necesito, suelo más bien darlo a entender.",
+      "type": 2
+    },
+    {
+      "id": 70,
+      "text": "Aunque trato de dominarlo, tengo un lado demandante y absorbente con mis seres queridos.",
+      "type": 2
+    },
+    {
+      "id": 71,
+      "text": "Muchas veces actúo con rudeza, pero lo hago por mi bien y el de los demás.",
+      "type": 8
+    },
+    {
+      "id": 72,
+      "text": "Dicen que soy indeciso; es que prefiero tomarme mi tiempo y ver todas las posibilidades.",
+      "type": 9
+    },
+    {
+      "id": 73,
+      "text": "Priorizo mi mundo interior y mis emociones ante todo lo demás.",
+      "type": 4
+    },
+    {
+      "id": 74,
+      "text": "Prefiero ocuparme en una rutina, cualquiera, antes que meterme en medio de una confrontación.",
+      "type": 9
+    },
+    {
+      "id": 75,
+      "text": "Me es muy difícil decir “no” y prefiero amoldarme siempre que puedo.",
+      "type": 9
+    },
+    {
+      "id": 76,
+      "text": "Vivo más en mi propia mente que en mi cuerpo.",
+      "type": 5
+    },
+    {
+      "id": 77,
+      "text": "Con los que quiero soy generoso pero también puedo ser invasivo, demandante y mandón.",
+      "type": 2
+    },
+    {
+      "id": 78,
+      "text": "Me persiguen las dudas; “ansiedad” podría ser mi segundo nombre.",
+      "type": 6
+    },
+    {
+      "id": 79,
+      "text": "Prefiero hablar de lo que pienso antes que hablar sobre lo que siento.",
+      "type": 5
+    },
+    {
+      "id": 80,
+      "text": "Considero que los valores morales son esenciales: “lo blanco es blanco, lo negro es negro”.",
+      "type": 1
+    },
+    {
+      "id": 81,
+      "text": "Por ser responsable y serio, han recaído muchas responsabilidades sobre mis hombros.",
+      "type": 1
+    },
+    {
+      "id": 82,
+      "text": "Suelo tomar distancia de las situaciones conflictivas y muy emotivas.",
+      "type": 5
+    },
+    {
+      "id": 83,
+      "text": "Me da igual estar solo o acompañado, siempre que esté tranquilo.",
+      "type": 9
+    },
+    {
+      "id": 84,
+      "text": "Frecuentemente suelo halagar a la gente que aprecio, para que me recuerden con afecto.",
+      "type": 2
+    },
+    {
+      "id": 85,
+      "text": "Procuro ser ordenado y correcto, aunque ello me lleva a menudo a ser rígido.",
+      "type": 1
+    },
+    {
+      "id": 86,
+      "text": "Las urgencias no me perturban, no es tan malo esperar un poco.",
+      "type": 9
+    },
+    {
+      "id": 87,
+      "text": "Soy creativo, profundo, sensible, un poco misterioso, pero consciente de mí mismo.",
+      "type": 4
+    },
+    {
+      "id": 88,
+      "text": "Me interesa más “lo general” que quedarme en los detalles.",
+      "type": 7
+    },
+    {
+      "id": 89,
+      "text": "Me gusta disfrutar de todas las cosas: ¡la vida es una sola y existimos para ser felices!",
+      "type": 7
+    },
+    {
+      "id": 90,
+      "text": "Procuro que los sentimientos no se interpongan cuando voy en pos de mis objetivos.",
+      "type": 3
+    },
+    {
+      "id": 91,
+      "text": "Me atrae el poder y siento que estoy naturalmente capacitado para ejercerlo.",
+      "type": 8
+    },
+    {
+      "id": 92,
+      "text": "Si no hago las cosas bien, suele invadirme la culpa, el enojo y la tristeza.",
+      "type": 1
+    },
+    {
+      "id": 93,
+      "text": "Soy bueno para el análisis y los detalles, curioso e independiente.",
+      "type": 5
+    },
+    {
+      "id": 94,
+      "text": "Cuando me siento rechazado o poco valorado, se despierta en mí mucho odio y rencor.",
+      "type": 4
+    },
+    {
+      "id": 95,
+      "text": "A menudo brindo ayuda y consejo, incluso a quien no me lo pide, y me gusta hacerlo.",
+      "type": 2
+    },
+    {
+      "id": 96,
+      "text": "Mis intentos por conservar mi invulnerabilidad me llevaron a ser desmesurado y violento.",
+      "type": 8
+    },
+    {
+      "id": 97,
+      "text": "Si las cosas no salen bien me suelo irritar, pero procuro no estallar.",
+      "type": 1
+    },
+    {
+      "id": 98,
+      "text": "A veces mi hiperactividad alterna con bajones emocionales de los cuales prefiero no hablar.",
+      "type": 7
+    },
+    {
+      "id": 99,
+      "text": "Aunque quizá no lo admita en público, para mí “el fin justifica los medios”.",
+      "type": 3
+    },
+    {
+      "id": 100,
+      "text": "No suelo tomar iniciativas sino después de haber analizado bastante la cuestión.",
+      "type": 5
+    },
+    {
+      "id": 101,
+      "text": "Amo ser auténtico y original, y el mal gusto me exaspera.",
+      "type": 4
+    },
+    {
+      "id": 102,
+      "text": "Muchas veces me siento incomprendido y mi gran temor es ser abandonado.",
+      "type": 4
+    },
+    {
+      "id": 103,
+      "text": "Tengo dificultades para arrancar, pero después que empecé me cuesta detenerme.",
+      "type": 9
+    },
+    {
+      "id": 104,
+      "text": "Aunque a veces me muestre orgulloso e intrépido, tiendo a sentir que valgo menos que los otros.",
+      "type": 4
+    },
+    {
+      "id": 105,
+      "text": "Si no reconocen que puedo estar al mando, se los haré saber.",
+      "type": 8
+    },
+    {
+      "id": 106,
+      "text": "A menudo uso mi dramatismo para hacer que los demás reaccionen y vean cómo me siento.",
+      "type": 4
+    },
+    {
+      "id": 107,
+      "text": "Las rupturas, las despedidas y los finales me afectan demasiado; luego viene la melancolía.",
+      "type": 4
+    },
+    {
+      "id": 108,
+      "text": "Expreso corporalmente mi afecto (caricias, abrazos, sonrisas, palabras y gestos) con gran facilidad.",
+      "type": 2
+    }
+  ],
+  "stats": {
+    "total": 108,
+    "per_type": 12
+  }
+}
