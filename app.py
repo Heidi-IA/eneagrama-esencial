@@ -364,7 +364,7 @@ def crear_preferencia():
         "items": [{
             "title": "Eneagrama Esencial — Diagnóstico inicial profesional",
             "quantity": 1,
-            "unit_price": 1000,
+            "unit_price": 9999,
             "currency_id": "ARS",
         }],
         "payer": {"email": session["usuario"]["email"]},
