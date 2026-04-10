@@ -2,6 +2,42 @@
 
 App Flask con pago por Mercado Pago, test de eneagrama y generación de PDF.
 
+Un diagnóstico claro para comenzar tu camino de autoconocimiento.
+
+¿Para quién es?
+
+* Personas que desean conocerse mejor
+* Quienes repiten patrones y no saben por qué
+* Personas en búsqueda vocacional
+* Profesionales en proceso de crecimiento personal
+
+Conocerte es el primer paso para transformarte.
+Te invito a un maravilloso viaje hacia el centro de tu alma a través de esta técnica basada en 9 modelos de personalidad.
+
+El Eneagrama no te encasilla.
+Te revela.
+
+En solo 15–20 minutos de cuestionario recibirás un informe profesional y personalizado en PDF.
+
+¿Qué incluye?
+
+✔ Eneatipo principal con descripción profunda
+✔ Tu ala dominante
+✔ Orientación vocacional base
+✔ Gráfico radial personalizado
+✔ Documento profesional descargable
+
+¿Qué no incluye?
+
+Este diagnóstico inicial no aborda análisis evolutivos profundos ni estructura mental completa.
+Si luego deseas profundizar, podrás acceder al Informe Evolutivo Integral.
+
+⏱ Cuestionario: 15–20 minutos
+📩 Entrega automática en PDF
+
+🎯 Lanzamiento 72 hs: $9.999 ARS
+✨ Precio especial Marzo: $15.000 ARS
+💰 Valor regular: $18.000 ARS
 ---
 
 ## Estructura de carpetas
@@ -141,7 +177,7 @@ heroku logs --tail --app eneagrama-esencial
 ## Precio configurado
 
 - **Producto:** Eneagrama Esencial — Diagnóstico inicial profesional
-- **Precio:** $12.999 ARS
+- **Precio:**
 - Modificable en `app.py` → función `crear_preferencia` → `unit_price`
 
 ---
