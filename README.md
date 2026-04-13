@@ -35,9 +35,7 @@ Si luego deseas profundizar, podrás acceder al Informe Evolutivo Integral.
 ⏱ Cuestionario: 15–20 minutos
 📩 Entrega automática en PDF
 
-🎯 Lanzamiento 72 hs: $9.999 ARS
-✨ Precio especial Marzo: $15.000 ARS
-💰 Valor regular: $18.000 ARS
+💰 Valor regular: $15.000 ARS
 ---
 
 ## Estructura de carpetas
